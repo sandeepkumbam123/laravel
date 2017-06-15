@@ -1,0 +1,125 @@
+.nb-icon-question {
+    background-image: url(../images/icon-question.png);
+}
+
+.nb-icon-list {
+    background-image: url(../images/icon-class.png);
+}
+
+.nb-icon-back {
+    background-image: url(../images/icon-back.png);
+}
+
+.nb-icon-plus {
+    background-image: url(../images/icon-plus.png);
+}
+
+.nb-icon-cross {
+    background-image: url(../images/icon-cross.png);
+}
+
+.nb-icon-search {
+    background-image: url(../images/icon-search.png);
+}
+
+.nb-icon-edit,
+.nb-icon-delete,
+.nb-icon-next,
+.nb-icon-previous,
+.nb-icon-facebook,
+.nb-icon-linkedin,
+.nb-icon-googleplus,
+.nb-icon-twitter {
+    display: inline-block;
+    text-indent: -9999px;
+}
+
+.nb-icon-edit {
+    background: url(../images/icon-edit.png) no-repeat center center;
+    height: 13px;
+    width: 12px;
+}
+
+.nb-icon-delete {
+    background: url(../images/icon-delete.png) no-repeat center center;
+    height: 13px;
+    width: 9px;
+}
+
+.nb-icon-next,
+.nb-icon-previous {
+    width: 11px;
+}
+
+.nb-icon-previous {
+    background: url(../images/icon-prev.png) no-repeat center center;
+}
+
+.nb-icon-next {
+    background: url(../images/icon-next.png) no-repeat center center;
+}
+
+.nb-icon-facebook,
+.nb-icon-linkedin,
+.nb-icon-googleplus,
+.nb-icon-twitter {
+    width: 30px;
+    height: 30px;
+}
+
+.nb-icon-facebook {
+    background: url(../images/icon-facebook.png) no-repeat center center;
+}
+
+.nb-icon-linkedin {
+    background: url(../images/icon-linkedin.png) no-repeat center center;
+}
+
+.nb-icon-googleplus {
+    background: url(../images/icon-googleplus.png) no-repeat center center;
+}
+
+.nb-icon-twitter {
+    background: url(../images/icon-twitter.png) no-repeat center center;
+}
+
+.copyrights {
+    color: #373f52;
+    margin-top: 10px;
+}
+
+.copyrights a,
+.copyrights a:hover {
+    font-weight: 700;
+    color: #f89201;
+}
+
+.nb-icon-branch {
+    background-image: url(../images/icon-branch.png);
+}
+
+.nb-icon-section {
+    background-image: url(../images/icon-section.png);
+}
+
+.nb-icon-subject {
+    background-image: url(../images/icon-subject.png);
+}
+
+.nb-icon-chapter {
+    background-image: url(../images/icon-chapter.png);
+}
+
+.nb-icon-exam {
+    background-image: url(../images/icon-exam.png);
+}
+
+.nb-icon-users {
+    background-image: url(../images/icon-users-group.png);
+}
+
+.nb-icon-teacher {
+    background-image: url(../images/icon-teacher.png);
+}
+
+
